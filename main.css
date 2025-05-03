@@ -15,11 +15,6 @@ p {
   font-size: 14px;
   font-family: Arial
 }
-{
-  background-color: blue;
-  text-align: right;
- }
-=======
 
 th, td {
   padding: 8px;
@@ -28,4 +23,3 @@ th, td {
   font-family: Arial
  }
  tr:nth-child(odd) {background-color: #f2f2f2;}
->>>>>>> add-table
